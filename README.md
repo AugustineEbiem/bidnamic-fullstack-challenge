@@ -4,7 +4,7 @@
 
 ## Summary
 The Bidnamic API is a RESTful API that retrieves the Top 10 Search Terms by ROAS for a campaign `structure_value`. The HTML template displays the Top 10 Search Terms by ROAS by Nike's `structure_value`
-> A valid token is required to access the endpoint.
+> A valid token is required to access the endpoint. Login as a Django super user.
 
 ## Requirements
 * Python 3.8 or higher
